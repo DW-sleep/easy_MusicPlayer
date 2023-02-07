@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>musicRes/bofang.png</file>
+        <file>musicRes/shangyige.png</file>
+        <file>musicRes/shunxu.png</file>
+        <file>musicRes/wenjian.png</file>
+        <file>musicRes/xiayige.png</file>
+        <file>musicRes/xunhuan.png</file>
+        <file>musicRes/yinliang.png</file>
+        <file>musicRes/zhanting.png</file>
+    </qresource>
+</RCC>
